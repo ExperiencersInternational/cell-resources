@@ -6,7 +6,7 @@ Unlike the other 3 networks, O2 publicly publishes where sites are located in th
 
 First of all, you can literally just search by the site ID if you know it. For example, searching 514421 will take you to an O2 site off the A40 in Monmouth.
 
-![Shows a search box which had just searched 514421 in My Network and was positioned in an area by the A40 in Monmouth](img/gb/sitelocation/o2guide/Screenshot_20241126-233039.png)
+![Shows a search box which had just searched 514421 in My Network and was positioned in an area by the A40 in Monmouth](/img/gb/sitelocation/o2guide/Screenshot_20241126-233039.png)
 
 ## Searching by cell ID (2G and 3G)
 
@@ -16,7 +16,7 @@ We can then search this on the app or website by inputting `cell:xxxxx` (replaci
 
 You should see a list of site IDs when you've done that and with trial and error, you should be able to find the correct site.
 
-![Shows a list of site IDs that correspond with that cell ID, for example cell:12601 gave us 034590, 034807, 035783, 514421](img/gb/sitelocation/o2guide/Screenshot_20241126-233235.png)
+![Shows a list of site IDs that correspond with that cell ID, for example cell:12601 gave us 034590, 034807, 035783, 514421](/img/gb/sitelocation/o2guide/Screenshot_20241126-233235.png)
 
 Generally, 5xxxxx site IDs are ones in Vodafone host areas (which is essentially majority of the West of England, majority of Wales and parts of Western Scotland).
 
