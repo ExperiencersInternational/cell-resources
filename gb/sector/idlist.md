@@ -64,8 +64,12 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 ### 4G
 * 0, 1, 2: Band 3 (EARFCN 1392)
 * 6, 7, 8: Band 20 (EARFCN 6175)
+* 10-43: Band 3 (EARFCN 1392) [DAS systems only, unconfirmed max sector ID]
 * 71, 72, 73: Band 1 (EARFCN 76/99)
 * 91, 92, 93: Band 28 (EARFCN 9360)
+* 110-143: Band 1 (EARFCN 76/99) [DAS systems only, unconfirmed max sector ID]
+
+Also B20/28 DAS cells in the 200 range but I can't confirm anything yet.
 
 ### 5G
 * 101, 102, 103: Band n78 (NRARFCN 641376)
