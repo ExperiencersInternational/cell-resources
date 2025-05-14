@@ -12,6 +12,8 @@ First of all, you can literally just search by the site ID if you know it. For e
 
 If you don't know the site ID, you can search by the cell ID. For 2G and 3G, this should be a 5 digit decimal number (including the sector ID). For our test site in particular, this would be 12601 for 2G on the first sector.
 
+> **Note:** If you're searching for a site that doesn't have a 5 digit decimal number here, put as many 0's as necessary at the start to make it 5 digits. For example, in the step below for cell ID 6573 in Blaenporth in Wales, you would input `cell:06573`.
+
 We can then search this on the app or website by inputting `cell:xxxxx` (replacing xxxxx with the cell ID).
 
 You should see a list of site IDs when you've done that and with trial and error, you should be able to find the correct site.
