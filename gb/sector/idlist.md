@@ -29,6 +29,7 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 * 510, 520, 530: Band n8 (NRARFCN 190590) [Likely Vodafone host only]
 * 515, 525, 535: Band n28 (NRARFCN 152690) [Seems to be a Vodafone host sector ID but not sure]
 * 10701, 10702, 10703: Band n28 (NRARFCN 152690)
+* 10901, 10902, 10903: Band n8 (NRARFCN 189850)
 * 13401, 13402, 13403: Band n78 (NRARFCN 634080)
 * 13701, 13702, 13703: Band n78 (NRARFCN 651360)
 
