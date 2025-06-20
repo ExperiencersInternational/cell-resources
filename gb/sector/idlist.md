@@ -6,6 +6,8 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 
 ### 4G
 
+> **Note:** Band 1 EARFCN likely to change in the future as O2/VF/3 performs spectrum swap and the carrier is widened to 20MHz.
+
 #### O2 host
 * 1x0: Band 20 (EARFCN 6400)
 * 1x2: Band 8 (EARFCN 3725)
@@ -38,6 +40,8 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 
 ### 4G
 
+> **Note:** Band 38 is going to be withdrawn soon with spectrum transferring over to O2. Band 1 EARFCN is likely to change soon with the VF/O2/3 spectrum swap and will be widened to 20MHz. I suspect band 3 should use EARFCN 1363 shortly too.
+
 #### Vodafone host
 * x0: Band 20 (EARFCN 6300)
 * x2: Band 8 (EARFCN 3500)
@@ -53,20 +57,22 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 * x5: Band 1 (EARFCN 323/347)
 * x8: Band 7 (EARFCN 2850)
 
+> **Note:** Three sites are the same as what's being broadcast on 3 UK at the moment.
+
 ### 5G
 
 * 15, 25, 35: Band n78 (NRARFCN 628032)
 * 17, 27, 37: Band n1 (NRARFCN 428190)
-* 410, 420, 430: Band n8
+* 410, 420, 430: Band n8 (NRARFCN 186030)
 * 416, 426, 436: Band n78 (NRARFCN 634080)
 * 419, 429, 439: Band n78 (NRARFCN 634080)
 
 ## 3 UK (234 20)
 
 ### 4G
-* 0, 1, 2: Band 3 (EARFCN 1392)
+* 0, 1, 2: Band 3 (EARFCN 1363)
 * 6, 7, 8: Band 20 (EARFCN 6175)
-* 10-43: Band 3 (EARFCN 1392) [DAS systems only, unconfirmed max sector ID]
+* 10-43: Band 3 (EARFCN 1363) [DAS systems only, unconfirmed max sector ID]
 * 71, 72, 73: Band 1 (EARFCN 76/99)
 * 91, 92, 93: Band 28 (EARFCN 9360)
 * 110-143: Band 1 (EARFCN 76/99) [DAS systems only, unconfirmed max sector ID]
