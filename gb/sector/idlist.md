@@ -104,3 +104,4 @@ Also B20/28 DAS cells in the 200 range but I can't confirm anything yet.
 * 6, 7, 8: Band n28 (NRARFCN 156510)
 * 9, 10, 11: Band n1 (NRARFCN 431810)
 * 12, 13, 14: Band n3 (NRARFCN 372490)
+* 15, 16, 17: Band n7 (NRARFCN 529490)
