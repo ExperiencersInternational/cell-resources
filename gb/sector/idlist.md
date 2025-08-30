@@ -44,17 +44,17 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 
 #### Vodafone host
 * x0: Band 20 (EARFCN 6300)
-* x2: Band 8 (EARFCN 3500)
-* x4: Band 1 (EARFCN 323/347)
-* x6: Band 3 (EARFCN 1288)
+* x2: Band 8 (EARFCN 3501)
+* x4: Band 1 (EARFCN 299/323/347)
+* x6: Band 3 (EARFCN 1288/1363)
 * x8: Band 7 (EARFCN 2850)
 * x9: Band 38 (EARFCN 37900)
 
 #### O2 host
 * x0: Band 20 (EARFCN 6300)
-* x2: Band 8 (EARFCN 3500)
+* x2: Band 8 (EARFCN 3501)
 * x4: Band 3 (EARFCN 1288)
-* x5: Band 1 (EARFCN 323/347)
+* x5: Band 1 (EARFCN 299/323/347)
 * x8: Band 7 (EARFCN 2850)
 
 > **Note:** Three sites are the same as what's being broadcast on 3 UK at the moment.
@@ -70,7 +70,7 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 ## 3 UK (234 20)
 
 ### 4G
-* 0, 1, 2: Band 3 (EARFCN 1363)
+* 0, 1, 2: Band 3 (EARFCN 1363/1392)
 * 6, 7, 8: Band 20 (EARFCN 6175)
 * 10-43: Band 3 (EARFCN 1363) [DAS systems only, unconfirmed max sector ID]
 * 71, 72, 73: Band 1 (EARFCN 76/99)
@@ -93,7 +93,7 @@ Also B20/28 DAS cells in the 200 range but I can't confirm anything yet.
 * 9, 10, 11: Band 7 (EARFCN 3179)
 * 12, 13, 14: Band 20 (EARFCN 6225)
 * 15, 16, 17: Band 7 (EARFCN 3026) [Micro cells only]
-* 18, 19, 20: Band 1 (EARFCN 497/522)
+* 18, 19, 20: Band 1 (EARFCN 497)
 * 24, 25, 26: Band 3 (EARFCN 1791) [Micro cells only]
 * 27, 28, 29: Band 28 (EARFCN 9460) [Very rare: seen in Edinburgh and rural areas]
 * 30, 31, 32: Band 7 (EARFCN 3029)
