@@ -28,13 +28,15 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 
 ### 5G
 
+> **Note:** This isn't something I've realised until earlier today, but for what seems to be O2 host 5G sectors, O2 actually seems to base them off of the frequency. Example, 10701 is for n28 which is in the 700MHz range. If we ignore the digit at the start and we pretend the digit at the end is a 0, we get 0700 which matches the frequency. Another example, 12101 is for n1 which is 2100MHz, which would become 2100 matching the frequency. I've tried to highlight the frequency more easily for the O2 host ones to show this.
+
 * 510, 520, 530: Band n8 (NRARFCN 190590) [Likely Vodafone host only]
 * 515, 525, 535: Band n28 (NRARFCN 152690) [Seems to be a Vodafone host sector ID but not sure]
-* 10701, 10702, 10703: Band n28 (NRARFCN 152690)
-* 10901, 10902, 10903: Band n8 (NRARFCN 189850)
-* 12101, 12102, 12103: Band n1 (NRARFCN 426010)
-* 13401, 13402, 13403: Band n78 (NRARFCN 634080)
-* 13701, 13702, 13703: Band n78 (NRARFCN 648768/651360)
+* 1**0701**, 10702, 10703: Band n28 (NRARFCN 152690)
+* 1**0901**, 10902, 10903: Band n8 (NRARFCN 189850)
+* 1**2101**, 12102, 12103: Band n1 (NRARFCN 426010)
+* 1**3401**, 13402, 13403: Band n78 (NRARFCN 634080)
+* 1**3701**, 13702, 13703: Band n78 (NRARFCN 648768/651360)
 
 ## vodafone UK (234 15)
 
