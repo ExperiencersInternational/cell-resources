@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <spnOverrides>
+ <!--I'm just putting this up since I think it would be cool to have a list of PLMNs and network names more than anything, serves no use really. Partially based on stuff I've found and might never be updated again.-->
+   <spnOverride numeric="23404" spn="Wavemobile"/>
+   <spnOverride numeric="23410" spn="O2 - UK"/>
+   <spnOverride numeric="23415" spn="vodafone UK"/>
+   <spnOverride numeric="23420" spn="3 UK"/>
+   <spnOverride numeric="23430" spn="EE"/>
+   <spnOverride numeric="23433" spn="EE"/>
+   <spnOverride numeric="26201" spn="Telekom.de"/>
+   <spnOverride numeric="26202" spn="Vodafone.de"/>
+   <spnOverride numeric="26203" spn="o2 - de"/>
+   <spnOverride numeric="28601" spn="Turkcell"/>
+   <spnOverride numeric="28602" spn="vodafone TR"/>
+   <spnOverride numeric="28603" spn="Turk Telekom"/>
+ </spnOverrides>
