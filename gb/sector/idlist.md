@@ -25,6 +25,7 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 * 1x5: Band 40 (EARFCN 39250) [This sector is used if there's B3 in the area usually]
 * 1x6: Band 3 (EARFCN 1226) or Band 40 (EARFCN 39250) [This sector is used for B40 if B3 isn't in the area usually]
 * 1x7: Band 40 (EARFCN 39448)
+* 1x9: Band 38 (EARFCN 38100)
 
 ### 5G
 
@@ -35,6 +36,7 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 * 1**0701**, 10702, 10703: Band n28 (NRARFCN 152690)
 * 1**0901**, 10902, 10903: Band n8 (NRARFCN 189850)
 * 1**2101**, 12102, 12103: Band n1 (NRARFCN 426010)
+* 1**2601**, 12602, 12603: Band n38 (NRARFCN 517230)
 * 1**3401**, 13402, 13403: Band n78 (NRARFCN 634080)
 * 1**3701**, 13702, 13703: Band n78 (NRARFCN 648768/651360)
 
