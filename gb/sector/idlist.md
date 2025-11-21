@@ -12,7 +12,7 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 * 1x0: Band 20 (EARFCN 6400)
 * 1x2: Band 8 (EARFCN 3725)
 * 1x4: Band 3 (EARFCN 1226/1228) [Sites with 1228 are micro cells]
-* 1x5: Band 1 (EARFCN 199)
+* 1x5: Band 1 (EARFCN 347)
 * 1x6: Band 40 (EARFCN 39250)
 * 1x7: Band 40 (EARFCN 39448)
 * 1x8: Band 38 (EARFCN 38100/38125)
@@ -21,7 +21,7 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 #### Vodafone host
 * 1x0: Band 20 (EARFCN 6400)
 * 1x2: Band 8 (EARFCN 3725)
-* 1x4: Band 1 (EARFCN 199)
+* 1x4: Band 1 (EARFCN 347)
 * 1x5: Band 40 (EARFCN 39250) [This sector is used if there's B3 in the area usually]
 * 1x6: Band 3 (EARFCN 1226) or Band 40 (EARFCN 39250) [This sector is used for B40 if B3 isn't in the area usually]
 * 1x7: Band 40 (EARFCN 39448)
@@ -38,6 +38,7 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 * 1**2101**, 12102, 12103: Band n1 (NRARFCN 426010)
 * 1**2601**, 12602, 12603: Band n38 (NRARFCN 517230)
 * 1**3401**, 13402, 13403: Band n78 (NRARFCN 634080)
+* 1**3501**, 13502, 13503, Band n78 (NRARFCN 635424)
 * 1**3701**, 13702, 13703: Band n78 (NRARFCN 648768/651360)
 
 ## vodafone UK (234 15)
@@ -49,7 +50,7 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 #### Vodafone host
 * x0: Band 20 (EARFCN 6300)
 * x2: Band 8 (EARFCN 3501)
-* x4: Band 1 (EARFCN 299/323/347)
+* x4: Band 1 (EARFCN 223/247) (possibly 199 too?)
 * x6: Band 3 (EARFCN 1288/1363)
 * x8: Band 7 (EARFCN 2850)
 * x9: Band 38 (EARFCN 37900)
