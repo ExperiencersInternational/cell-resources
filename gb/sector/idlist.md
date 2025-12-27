@@ -35,7 +35,7 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 * 515, 525, 535: Band n28 (NRARFCN 152690) [Seems to be a Vodafone host sector ID but not sure]
 * 1**0701**, 10702, 10703: Band n28 (NRARFCN 152690)
 * 1**0901**, 10902, 10903: Band n8 (NRARFCN 189850)
-* 1**2101**, 12102, 12103: Band n1 (NRARFCN 426010)
+* 1**2101**, 12102, 12103: Band n1 (NRARFCN 428190)
 * 1**2601**, 12602, 12603: Band n38 (NRARFCN 517230)
 * 1**3401**, 13402, 13403: Band n78 (NRARFCN 634080)
 * 1**3501**, 13502, 13503, Band n78 (NRARFCN 635424)
@@ -50,7 +50,7 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 #### Vodafone host
 * x0: Band 20 (EARFCN 6300)
 * x2: Band 8 (EARFCN 3501)
-* x4: Band 1 (EARFCN 223/247) (possibly 199 too?)
+* x4: Band 1 (EARFCN 223/247)
 * x6: Band 3 (EARFCN 1288/1363)
 * x8: Band 7 (EARFCN 2850)
 * x9: Band 38 (EARFCN 37900)
@@ -59,7 +59,7 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 * x0: Band 20 (EARFCN 6300)
 * x2: Band 8 (EARFCN 3501)
 * x4: Band 3 (EARFCN 1288)
-* x5: Band 1 (EARFCN 299/323/347)
+* x5: Band 1 (EARFCN 223/247)
 * x8: Band 7 (EARFCN 2850)
 
 > **Note:** Three sites are the same as what's being broadcast on 3 UK at the moment.
@@ -67,7 +67,7 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 ### 5G
 
 * 15, 25, 35: Band n78 (NRARFCN 628032)
-* 17, 27, 37: Band n1 (NRARFCN 428190)
+* 17, 27, 37: Band n1 (NRARFCN 426010)
 * 410, 420, 430: Band n8 (NRARFCN 186030)
 * 416, 426, 436: Band n78 (NRARFCN 634080)
 * 419, 429, 439: Band n78 (NRARFCN 634080)
