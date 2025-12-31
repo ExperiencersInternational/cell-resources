@@ -28,6 +28,7 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 * 1x6: Band 3 (EARFCN 1226)
 * 1x7: Band 40 (EARFCN 39448)
 * 1x9: Band 38 (EARFCN 38100)
+* 2x5: Band 38 (EARFCN 37900)
 
 ### 5G
 
