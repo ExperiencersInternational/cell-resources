@@ -56,6 +56,8 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 * x6: Band 3 (EARFCN 1288/1363)
 * x8: Band 7 (EARFCN 2850)
 * x9: Band 38 (EARFCN 37900)
+* 2x0: Band 28 (EARFCN 9360)
+* 2x2: Band 1 (EARFCN 76)
 
 #### O2 host
 * x0: Band 20 (EARFCN 6300)
