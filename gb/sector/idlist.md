@@ -73,7 +73,7 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 
 * 15, 25, 35: Band n78 (NRARFCN 628032)
 * 17, 27, 37: Band n1 (NRARFCN 426010)
-* 410, 420, 430: Band n8 (NRARFCN 186030)
+* 410, 420, 430: Band n8 (NRARFCN 186030/186050)
 * 416, 426, 436: Band n78 (NRARFCN 634080)
 * 419, 429, 439: Band n78 (NRARFCN 634080)
 
