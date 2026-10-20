@@ -54,7 +54,9 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 
 #### Vodafone host
 * x0: Band 20 (EARFCN 6300)
+* x1: NB-IoT
 * x2: Band 8 (EARFCN 3501)
+* x3: Band 32 (EARFCN 10220)
 * x4: Band 1 (EARFCN 223/247)
 * x6: Band 3 (EARFCN 1288/1363)
 * x8: Band 7 (EARFCN 2850)
@@ -64,7 +66,9 @@ This is a list of sectors that UK networks have deployed for 4G and 5G communica
 
 #### O2 host
 * x0: Band 20 (EARFCN 6300)
+* x1: NB-IoT
 * x2: Band 8 (EARFCN 3501)
+* x3: Band 32 (EARFCN 10220)
 * x4: Band 3 (EARFCN 1363)
 * x5: Band 1 (EARFCN 103/223/247)
 * x8: Band 7 (EARFCN 2850)
